@@ -3,5 +3,6 @@ Repositorio criado para o desafio de Projeto.
 
 ## Estoicismo ##
 
+Escola Estoica - um resumo.
 
 
