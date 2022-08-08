@@ -5,4 +5,8 @@ Repositorio criado para o desafio de Projeto.
 
 Escola Estoica - um resumo.
 
+Existencialismo - um resumo.
 
+Ontologia - um resumo.
+
+Epstemologia - um resumo.
