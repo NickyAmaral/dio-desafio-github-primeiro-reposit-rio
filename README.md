@@ -2,6 +2,6 @@
 Desafio de projeto sobre - GitHub
 Repositorio criado para o desafio de projeto do DIO
 
-##Links úteis##
+##Estoicismo##
 
 
